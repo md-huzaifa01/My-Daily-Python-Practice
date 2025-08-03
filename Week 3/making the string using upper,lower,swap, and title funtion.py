@@ -1,0 +1,10 @@
+name = input('Enter your name: ')
+print(name.upper())
+print(name.lower())
+print(name.swapcase())
+print(name.title())
+mehedi = 'Rifa'
+print(mehedi.upper())
+print(mehedi.lower())
+print(mehedi.swapcase())
+print(mehedi.title())
