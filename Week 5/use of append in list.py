@@ -1,0 +1,6 @@
+stuff = list()
+stuff.append('mehedi')
+stuff.append('rifa')
+print(stuff)
+stuff.append('romel')
+print(stuff)
