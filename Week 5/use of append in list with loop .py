@@ -1,0 +1,12 @@
+name = list()
+name.append('Mehedi')
+name.append('is')
+name.append('a')
+name.append('play')
+name.append('boy.')
+print(name)
+name.sort()
+print(name)
+for w in name:
+    w.split()
+    print(w)
