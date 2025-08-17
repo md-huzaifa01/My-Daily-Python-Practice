@@ -1,0 +1,8 @@
+x = ('Mamun', 'laila', 'Salman')
+print(x[2])
+y = (5,6,7)
+print(y[2])
+print(max(y))
+print(min(y))
+print(max(x))
+print(min(x))
