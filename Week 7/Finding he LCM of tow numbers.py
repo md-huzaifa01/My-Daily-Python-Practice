@@ -1,3 +1,4 @@
+# Taking two numbers from the user and then deciding what the LCM is.
 a= int(input('Enter the first number: '))
 b= int(input('Enter the second number: '))
 if (a>b):
@@ -8,4 +9,5 @@ while(1):
     if(min1%a==0 and min1%b==0):
         print('least common multiple (LCM) is: ', min1)
         break
+
     min1= min1+1
