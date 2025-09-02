@@ -1,4 +1,4 @@
-Taking so much input and then finding the summation using for loop.
+# Taking so much input and then finding the summation using for loop.
 print('Enter the value of n: ', end='')
 n= int(input())
 print('Enter ' +str(n)+ 'numbers:')
@@ -10,4 +10,5 @@ for i in range(n):
     sum = sum+ numbers[i]
 avg = sum/n
 print('\nThe average value is: ', avg)
+
 
